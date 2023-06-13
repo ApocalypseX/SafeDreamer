@@ -1,0 +1,12 @@
+cloudpickle
+wandb
+moviepy
+matplotlib
+imageio
+numpy
+optax
+rich
+ruamel.yaml
+opencv-python
+tensorflow
+tensorflow_probability
